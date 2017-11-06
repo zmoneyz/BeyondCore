@@ -1,0 +1,2 @@
+2017-10-25 17:24:56.9951 | Fatal | 1111222222nlog test error 
+2017-10-25 17:24:57.0341 | Error | 22134444nlog test error 

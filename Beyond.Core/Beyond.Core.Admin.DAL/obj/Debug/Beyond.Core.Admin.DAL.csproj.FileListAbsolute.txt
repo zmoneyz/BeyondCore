@@ -1,0 +1,5 @@
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.DAL\bin\Debug\Beyond.Core.Admin.DAL.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.DAL\bin\Debug\Beyond.Core.Admin.DAL.pdb
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.DAL\obj\Debug\Beyond.Core.Admin.DAL.csprojResolveAssemblyReference.cache
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.DAL\obj\Debug\Beyond.Core.Admin.DAL.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.DAL\obj\Debug\Beyond.Core.Admin.DAL.pdb

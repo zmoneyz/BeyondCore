@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionString context="test">
+    <add name="BeyondCore" connectionString="server=172.16.7.190,1566;uid=vpclubcloud;pwd=vpclub#cloud^_123qKP#d;database=vpclubcloud;Max Pool Size=500; Min Pool Size=50" providerName="System.Data.SqlClient"/>
+    <add name="BeyondCore_Log" connectionString="server=172.16.7.190,1566;uid=vpclubcloud;pwd=vpclub#cloud^_123qKP#d;database=vpclubcloud;Max Pool Size=500; Min Pool Size=50" providerName="System.Data.SqlClient"/>
+  </connectionString>
+  <connectionString context="product">
+    
+  </connectionString>
+</configuration>

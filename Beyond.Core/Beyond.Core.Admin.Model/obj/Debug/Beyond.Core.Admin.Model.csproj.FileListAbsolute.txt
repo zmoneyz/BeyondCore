@@ -1,0 +1,4 @@
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.Model\bin\Debug\Beyond.Core.Admin.Model.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.Model\bin\Debug\Beyond.Core.Admin.Model.pdb
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.Model\obj\Debug\Beyond.Core.Admin.Model.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.Model\obj\Debug\Beyond.Core.Admin.Model.pdb

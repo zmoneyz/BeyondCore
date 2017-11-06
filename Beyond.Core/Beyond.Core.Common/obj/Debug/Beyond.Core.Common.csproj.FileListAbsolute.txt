@@ -1,0 +1,5 @@
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Common\bin\Debug\Beyond.Core.Common.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Common\bin\Debug\Beyond.Core.Common.pdb
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Common\obj\Debug\Beyond.Core.Common.csprojResolveAssemblyReference.cache
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Common\obj\Debug\Beyond.Core.Common.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Common\obj\Debug\Beyond.Core.Common.pdb

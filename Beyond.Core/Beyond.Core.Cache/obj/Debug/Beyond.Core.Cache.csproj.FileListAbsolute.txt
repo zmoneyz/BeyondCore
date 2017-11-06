@@ -1,0 +1,8 @@
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\bin\Debug\Beyond.Core.Cache.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\bin\Debug\Beyond.Core.Cache.pdb
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\bin\Debug\Memcached.ClientLibrary.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\bin\Debug\log4net.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\obj\Debug\Beyond.Core.Cache.csprojResolveAssemblyReference.cache
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\obj\Debug\Beyond.Core.Cache.dll
+E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Cache\obj\Debug\Beyond.Core.Cache.pdb

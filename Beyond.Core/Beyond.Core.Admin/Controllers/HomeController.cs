@@ -45,11 +45,7 @@ namespace Beyond.Core.Admin.Controllers
         public ActionResult Login()
         {
             //测试数据 888
-            string str = "";
-            if (str != "")
-            {
-                str = "This is a test.";
-            }
+            
             return View();
         }
     }

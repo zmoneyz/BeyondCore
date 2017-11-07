@@ -45,6 +45,12 @@ namespace Beyond.Core.Admin.Controllers
         public ActionResult Login()
         {
             //测试数据 888
+            //这里是来自GitHubTest的分支修改测试
+            string strGitHub = "";
+            if (strGitHub == "")
+            {
+                strGitHub = "OK";
+            }
             
             return View();
         }

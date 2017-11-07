@@ -51,7 +51,12 @@ namespace Beyond.Core.Admin.Controllers
             {
                 strGitHub = "OK";
             }
-            
+            string strGitHub22 = "";
+            if (strGitHub22 == "")
+            {
+                strGitHub22 = "OK";
+            }
+
             return View();
         }
     }

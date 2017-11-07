@@ -1,4 +1,0 @@
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Service\bin\Debug\Beyond.Core.Service.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Service\bin\Debug\Beyond.Core.Service.pdb
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Service\obj\Debug\Beyond.Core.Service.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Service\obj\Debug\Beyond.Core.Service.pdb

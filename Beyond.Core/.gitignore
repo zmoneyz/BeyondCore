@@ -76,6 +76,19 @@ artifacts/
 *.svclog
 *.scc
 
+#define by AllenLee#
+*.cache
+*.cshl
+*.ssdl
+*.msl
+*.pdb
+*.xml
+obj
+bin
+Logs
+
+
+
 # Chutzpah Test files
 _Chutzpah*
 

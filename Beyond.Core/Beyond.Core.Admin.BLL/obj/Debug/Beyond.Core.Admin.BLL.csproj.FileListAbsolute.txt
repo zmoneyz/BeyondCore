@@ -1,5 +1,0 @@
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.BLL\bin\Debug\Beyond.Core.Admin.BLL.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.BLL\bin\Debug\Beyond.Core.Admin.BLL.pdb
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.BLL\obj\Debug\Beyond.Core.Admin.BLL.csprojResolveAssemblyReference.cache
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.BLL\obj\Debug\Beyond.Core.Admin.BLL.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.Admin.BLL\obj\Debug\Beyond.Core.Admin.BLL.pdb

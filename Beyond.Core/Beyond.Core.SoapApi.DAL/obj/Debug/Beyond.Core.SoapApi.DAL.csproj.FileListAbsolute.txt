@@ -1,4 +1,0 @@
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.SoapApi.DAL\bin\Debug\Beyond.Core.SoapApi.DAL.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.SoapApi.DAL\bin\Debug\Beyond.Core.SoapApi.DAL.pdb
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.SoapApi.DAL\obj\Debug\Beyond.Core.SoapApi.DAL.dll
-E:\VSApplication\Beyond.Core\Beyond.Core\Beyond.Core.SoapApi.DAL\obj\Debug\Beyond.Core.SoapApi.DAL.pdb

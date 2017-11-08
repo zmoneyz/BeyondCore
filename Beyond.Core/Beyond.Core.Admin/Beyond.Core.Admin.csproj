@@ -140,6 +140,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LayoutController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -561,6 +562,9 @@
     <Content Include="Content\skin\default\ie_update.jpg" />
     <Content Include="Content\skin\default\loadimg.gif" />
     <Content Include="Content\skin\default\logo.png" />
+    <Content Include="Content\skin\default\logo1.png" />
+    <Content Include="Content\skin\default\logo2.png" />
+    <Content Include="Content\skin\default\logo3.png" />
     <Content Include="Content\skin\default\style.css" />
     <Content Include="Content\skin\default\valid_icons.png" />
     <Content Include="Content\skin\icon\demo.css" />
@@ -631,6 +635,7 @@
     <None Include="NLog.xsd">
       <SubType>Designer</SubType>
     </None>
+    <Content Include="Views\Layout\_LayoutPage.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
